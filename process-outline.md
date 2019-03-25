@@ -59,7 +59,7 @@ The project takes place over 4 working weeks. Working times can vary but general
 - Daily Stand Up Log:
 - This is an Issue that you create in each project repo with the idea that everyone at the end of each day writes up what they did, what they plan to do and any blockers. This means there’s less issues with the team stand up happening midday Gaza time. Example here
 
-### Schedule
+### Schedule
 
 Overall recommended schedule for the 4 weeks:
 
